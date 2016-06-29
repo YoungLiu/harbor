@@ -19,9 +19,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/vmware/harbor/auth"
-	"github.com/vmware/harbor/models"
-	svc_utils "github.com/vmware/harbor/service/utils"
+	"github.com/YoungLiu/harbor/auth"
+	"github.com/YoungLiu/harbor/models"
+	svc_utils "github.com/YoungLiu/harbor/service/utils"
 
 	"github.com/astaxie/beego"
 	"github.com/docker/distribution/registry/auth/token"

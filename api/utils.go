@@ -16,8 +16,8 @@
 package api
 
 import (
-	"github.com/vmware/harbor/dao"
-	"github.com/vmware/harbor/models"
+	"github.com/YoungLiu/harbor/dao"
+	"github.com/YoungLiu/harbor/models"
 
 	"github.com/astaxie/beego"
 )

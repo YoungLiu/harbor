@@ -18,8 +18,8 @@ package controllers
 import (
 	"net/http"
 
-	"github.com/vmware/harbor/auth"
-	"github.com/vmware/harbor/models"
+	"github.com/YoungLiu/harbor/auth"
+	"github.com/YoungLiu/harbor/models"
 
 	"github.com/astaxie/beego"
 )

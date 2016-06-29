@@ -18,7 +18,7 @@ package utils
 import (
 	"strings"
 
-	"github.com/vmware/harbor/models"
+	"github.com/YoungLiu/harbor/models"
 )
 
 // Repository holds information about repository

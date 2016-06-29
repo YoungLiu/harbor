@@ -19,8 +19,8 @@ import (
 	"database/sql"
 	"errors"
 
-	"github.com/vmware/harbor/models"
-	"github.com/vmware/harbor/utils"
+	"github.com/YoungLiu/harbor/models"
+	"github.com/YoungLiu/harbor/utils"
 
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/orm"

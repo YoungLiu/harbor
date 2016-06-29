@@ -22,9 +22,9 @@ import (
 	"regexp"
 	"text/template"
 
-	"github.com/vmware/harbor/dao"
-	"github.com/vmware/harbor/models"
-	"github.com/vmware/harbor/utils"
+	"github.com/YoungLiu/harbor/dao"
+	"github.com/YoungLiu/harbor/models"
+	"github.com/YoungLiu/harbor/utils"
 
 	"github.com/astaxie/beego"
 )

@@ -20,9 +20,9 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/vmware/harbor/dao"
-	"github.com/vmware/harbor/models"
-	svc_utils "github.com/vmware/harbor/service/utils"
+	"github.com/YoungLiu/harbor/dao"
+	"github.com/YoungLiu/harbor/models"
+	svc_utils "github.com/YoungLiu/harbor/service/utils"
 
 	"github.com/astaxie/beego"
 )

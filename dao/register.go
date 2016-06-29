@@ -19,8 +19,8 @@ import (
 	"errors"
 	"regexp"
 
-	"github.com/vmware/harbor/models"
-	"github.com/vmware/harbor/utils"
+	"github.com/YoungLiu/harbor/models"
+	"github.com/YoungLiu/harbor/utils"
 
 	"github.com/astaxie/beego/orm"
 )

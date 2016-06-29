@@ -19,7 +19,7 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/vmware/harbor/models"
+	"github.com/YoungLiu/harbor/models"
 
 	"github.com/astaxie/beego"
 

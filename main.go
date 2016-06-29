@@ -19,11 +19,11 @@ import (
 	"fmt"
 	"log"
 
-	_ "github.com/vmware/harbor/auth/db"
-	_ "github.com/vmware/harbor/auth/ldap"
-	"github.com/vmware/harbor/dao"
-	"github.com/vmware/harbor/models"
-	_ "github.com/vmware/harbor/routers"
+	_ "github.com/YoungLiu/harbor/auth/db"
+	_ "github.com/YoungLiu/harbor/auth/ldap"
+	"github.com/YoungLiu/harbor/dao"
+	"github.com/YoungLiu/harbor/models"
+	_ "github.com/YoungLiu/harbor/routers"
 
 	"os"
 

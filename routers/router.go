@@ -16,9 +16,9 @@
 package routers
 
 import (
-	"github.com/vmware/harbor/api"
-	"github.com/vmware/harbor/controllers"
-	"github.com/vmware/harbor/service"
+	"github.com/YoungLiu/harbor/api"
+	"github.com/YoungLiu/harbor/controllers"
+	"github.com/YoungLiu/harbor/service"
 
 	"github.com/astaxie/beego"
 )

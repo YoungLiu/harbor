@@ -25,7 +25,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/vmware/harbor/dao"
+	"github.com/YoungLiu/harbor/dao"
 
 	"github.com/docker/distribution/registry/auth/token"
 	"github.com/docker/libtrust"
